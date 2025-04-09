@@ -1,7 +1,8 @@
 # Prescriptions nationales pour la production d’une base de données d’occupation du sol à grande échelle
 
 ## Description
-La [documentation du standard](https://cnig.gouv.fr/IMG/pdf/pnocsge-10-decembre-20141.pdf) est disponible ici.
+> [!TIP]
+> Le standard CNIG OCS-GE n'a pas de schéma directement exploitable par schema.data.gouv.fr. Vous pouvez consulter la [documentation du standard](https://cnig.gouv.fr/IMG/pdf/pnocsge-10-decembre-20141.pdf) sur le site du CNIG.
 
 Le constat actuel sur les bases de données d’occupation du sol est clair. La base de données Corine Land Cover couvre l’ensemble du territoire français, mais cette dernière manque de précision géométrique et sémantique pour répondre aux attentes dues au contexte réglementaire (voir paragraphe suivant).
 
